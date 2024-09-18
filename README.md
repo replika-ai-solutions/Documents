@@ -56,10 +56,4 @@ Se você deseja contribuir para este repositório ou tem interesse em colaborar 
 
 ---
 
-## 🏆 Nossas Conquistas
-
-![GitHub stars](https://img.shields.io/github/stars/replika-ai-solutions?style=social) ![GitHub forks](https://img.shields.io/github/forks/replika-ai-solutions?style=social) ![GitHub issues](https://img.shields.io/github/issues/replika-ai-solutions?style=social) ![GitHub license](https://img.shields.io/github/license/replika-ai-solutions?color=blue) ![Build Status](https://img.shields.io/github/workflow/status/replika-ai-solutions/ci/CD?label=Build%20Status)
-
----
-
 Agradecemos por visitar o repositório da **Replika AI Solutions**! Estamos empolgados para compartilhar nossas inovações e avançar juntos na revolução da **Inteligência Artificial** e **Machine Learning** 🌟🚀.
